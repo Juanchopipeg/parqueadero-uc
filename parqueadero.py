@@ -1,17 +1,6 @@
 """
 Sistema de Control de Acceso a un Parqueadero Universitario
 -------------------------------------------------------------
-Simula el registro de entrada de vehiculos durante un dia, calcula
-tarifas segun el tipo de usuario, aplica descuentos y lleva estadisticas.
-
-Restricciones respetadas:
-- Sin funciones definidas por el usuario.
-- Sin listas ni diccionarios.
-- Sin POO.
-- Usa while (con corte por cupos), if-elif-else anidado,
-  operadores logicos (and/or/not) y conversion explicita de tipos.
-"""
-
 CUPOS_TOTALES = 30
 
 N = int(input("Ingrese la cantidad de vehiculos a simular: "))
