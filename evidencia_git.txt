@@ -1,0 +1,11 @@
+6fde1f9 merge: resuelve conflicto en parqueadero.py
+b4912ff fix: corrige archivo parqueadero.py corrompido
+dcc4780 Remove initial comments and restrictions
+a57d70b Add files via upload
+515e811 Delete evidencia_git.txt
+a42ce85 docs: agrega evidencia del historial de commits
+c0e514a fix: corrige calculo de minutos en tarifa por hora
+b37bd4e feat: agrega logica de descuento por horario nocturno
+d778274 feat: implementa calculo de tarifa segun tipo de usuario
+5b4697a feat: agrega lectura de datos del vehiculo
+83f07f0 chore: inicializa repositorio con README y gitignore
